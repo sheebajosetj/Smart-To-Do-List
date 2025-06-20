@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "title": "Build Chatbot",
+        "description": "Build a chatbot using chatgroq ",
+        "due_date": "2025-06-20",
+        "priority": "High",
+        "status": "Completed",
+        "created_at": "2025-06-20T14:40:07.423251",
+        "completed_at": "2025-06-20T14:40:13.661201"
+    },
+    {
+        "id": 2,
+        "title": "Learn SQL ",
+        "description": "learn concepts like index, window function, stored procedures ",
+        "due_date": "2025-06-20",
+        "priority": "Medium",
+        "status": "Completed",
+        "created_at": "2025-06-20T14:41:14.534656",
+        "completed_at": "2025-06-20T14:41:18.254415"
+    },
+    {
+        "id": 3,
+        "title": "Learn SQLPL ",
+        "description": "learn concepts like index, window function, stored procedures ",
+        "due_date": "2025-06-20",
+        "priority": "Medium",
+        "status": "Pending",
+        "created_at": "2025-06-20T16:40:14.066035",
+        "completed_at": ""
+    },
+    {
+        "id": 4,
+        "title": "Learn python",
+        "description": "learn concepts and core ",
+        "due_date": "2025-06-20",
+        "priority": "Low",
+        "status": "Pending",
+        "created_at": "2025-06-20T16:40:44.576146",
+        "completed_at": ""
+    },
+    {
+        "id": 5,
+        "title": "Learn python and frontend",
+        "description": "learn concepts and core ",
+        "due_date": "2025-06-20",
+        "priority": "High",
+        "status": "Pending",
+        "created_at": "2025-06-20T16:41:20.073349",
+        "completed_at": ""
+    },
+    {
+        "id": 6,
+        "title": "Learn python and frontending",
+        "description": "learn concepts and core ",
+        "due_date": "2025-06-20",
+        "priority": "High",
+        "status": "Pending",
+        "created_at": "2025-06-20T18:12:05.381659",
+        "completed_at": ""
+    },
+    {
+        "id": 7,
+        "title": "Learn python and frontending",
+        "description": "learn concepts and core ",
+        "due_date": "2025-06-20",
+        "priority": "High",
+        "status": "Pending",
+        "created_at": "2025-06-20T18:12:41.445670",
+        "completed_at": ""
+    }
+]
