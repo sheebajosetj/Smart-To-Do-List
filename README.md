@@ -32,38 +32,10 @@ A clean and simple task manager built using **Flask (Python)** for the backend a
 ##  How to run?
 
 ### 1.Clone the Repository
-
 ```bash
 git clone https://github.com/yourusername/smart-todo-flask.git
 cd smart-todo-flask
-2. Create a Virtual Environment (Optional but Recommended)
-bash
-Copy
-Edit
-python -m venv env
-# On Windows:
-env\Scripts\activate
-# On macOS/Linux:
-source env/bin/activate
-3. Install Required Dependencies
-bash
-Copy
-Edit
-pip install flask
-You can also use a requirements.txt with flask inside:
 
-bash
-Copy
-Edit
-pip install -r requirements.txt
-4. Run the App
-bash
-Copy
-Edit
-python app.py
-Then open your browser and visit:
+### 2. Create a Virtual Environment (Optional but Recommended)
 
-cpp
-Copy
-Edit
-http://127.0.0.1:5000
+
