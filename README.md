@@ -35,7 +35,14 @@ A clean and simple task manager built using **Flask (Python)** for the backend a
 ```bash
 git clone https://github.com/yourusername/smart-todo-flask.git
 cd smart-todo-flask
+```
 
 ### 2. Create a Virtual Environment (Optional but Recommended)
+
+
+
+
+
+
 
 
