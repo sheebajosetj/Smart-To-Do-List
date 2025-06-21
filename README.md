@@ -33,16 +33,14 @@ A clean and simple task manager built using **Flask (Python)** for the backend a
 
 ### 1.Clone the Repository
 ```bash
-git clone https://github.com/yourusername/smart-todo-flask.git
-cd smart-todo-flask
+git clone https://github.com/yourusername/smart-todo-list.git
+cd smart-todo-list
 ```
 
 ### 2. Create a Virtual Environment (Optional but Recommended)
 ```bash
 python -m venv env
 env\Scripts\activate
-# On macOS/Linux:
-source env/bin/activate
 ```
 ### 3. Install Required Dependencies
 ```bash
@@ -57,6 +55,8 @@ python app.py
 Then open your browser and visit:
 http://127.0.0.1:5000
 ```
+---
+
 
 
 
